@@ -1,0 +1,20 @@
+<header>
+<h1>
+Ca sita Sedona Bed &amp;
+Breakfast
+</h1>
+</header>
+3. Code a nav element to contain text
+that will indicate the main navigation
+for the website. Configure bold
+text (use the b element) and use
+the &nbsp; special character to add
+extra blank space:
+<nav>
+<b>
+Home &nbsp;
+Rooms &nbsp;
+Events &nbsp;
+Contact
+</b>
+</nav>
